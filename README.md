@@ -1,4 +1,4 @@
-# passport-login-session
+# passport-google-session
 about passport-google-login
 
 구글 로그인 passport-google-oauth20
